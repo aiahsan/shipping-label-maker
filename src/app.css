@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+@import url("https://fonts.googleapis.com/css?family=Roboto Condensed");
+body
+{
+  background-color: #334D5E!important;
+  color: white!important;
+  font-family: 'Poppins'!important;
+}
+.bg-main
+{
+
+  background-color: #f3508d!important;
+  color: white!important;
+}
+.grp-btns
+{    display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;}
+  .grp-btn{
+    width: 237px;
+    margin-bottom: 15px;
+  }
+  .active
+  {
+    background-color: #f3508d!important;
+
+  }
+  h5 span
+  {
+    text-decoration: underline;
+  }
